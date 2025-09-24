@@ -15,7 +15,7 @@ Apple doesn’t allow unified log export from Windows; you need macOS. This scri
 
 ## Requirements
 
-* macOS (tested on Monterey and newer)
+* macOS (tested on Monterey)
 * Xcode command line tools installed
 * [Homebrew](https://brew.sh/)
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) and usbmuxd
