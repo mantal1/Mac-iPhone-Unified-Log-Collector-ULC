@@ -9,7 +9,7 @@ It handles the entire workflow: prompting for case/evidence numbers, waiting for
 
 Unified logs provide a richer picture than sysdiagnose bundles.
 
-Apple doesn’t allow unified log export from Windows; you need macOS. This script simplifies the process so you don’t have to re-type long commands in the field.
+This script simplifies the collection process so we don’t have to remember the various commands needed for a forensic collection of these logs in the field.
 
 ---
 
